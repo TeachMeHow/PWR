@@ -6,7 +6,7 @@
 int main()
 {
   int n;
-  int * tab = NULL;
+  int * tab;
   printf("How big do you want your array to be?");
   scanf("%i", &n);
   tab = (int*) calloc(n, sizeof(int));
