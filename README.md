@@ -7,9 +7,12 @@ Here we will *link* a blog in two different ways
 ##### w/o name substitution
 http://www.labnol.org/
 ### Tier 3
-Previous commit was 4f8436964d2e88e666533e27d314870ba2778911
-or TeachMeHow/PWR@4f8436964d2e88e666533e27d314870ba2778911
-and mention @TeachMeHow
+Previous commit was 
+4f8436964d2e88e666533e27d314870ba2778911
+or 
+TeachMeHow/PWR@4f8436964d2e88e666533e27d314870ba2778911
+and mention 
+@TeachMeHow
 
 or
 #### Tier 4
