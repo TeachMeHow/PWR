@@ -92,11 +92,11 @@ sepa | rated | fromeachother
 
 First Column | Second Column
 ------------ | -------------
-*text 1* | **text 2**
-sepa | [link](https://guides.github.com/features/mastering-markdown/)
+*emoji in a table* | **text 2**
+:sweat: | [link](https://guides.github.com/features/mastering-markdown/)
 
 this text must be ~~this text must be erased~~ erased
-
+[:sweat:](https://guides.github.com/features/mastering-markdown/)
 is this an  #1 issue?
 
 and finally, some emojis
