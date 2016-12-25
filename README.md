@@ -23,9 +23,9 @@ We know how to deal with
 
 so now let's do lists and image insertions
 
-1. ##What
-2. ##A wonderful
-3. ##Day
+1. What
+2. A wonderful
+3. Day
   1. Not an @underling
   * ?
   2. really
@@ -102,3 +102,11 @@ is this an  #1 issue?
 and finally, some emojis
 
 :sweat: :confused: :worried:
+
+<dl>
+  <dt>Definition list</dt>
+  <dd>Is something people use sometimes.</dd>
+
+  <dt>Markdown in HTML</dt>
+  <dd>Does *not* work **very** well. Use HTML <em>tags</em>.</dd>
+</dl>
